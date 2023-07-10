@@ -9,10 +9,10 @@ I'm proficient in the following programming languages and frameworks:
 -   HTML 🌐
 -   CSS 🎨
 -   JavaScript 🚀
--   React ⚛️ (less proficient)
--   Node.js 🛡️ (less proficient)
--   MongoDB 🍃 (less proficient)
--   SQL (less proficient)
+-   React ⚛️ (newbie)
+-   Node.js 🛡️ (newbie)
+-   MongoDB 🍃 (newbie)
+-   SQL (newbie)
 
 
 ## Projects 📂
