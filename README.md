@@ -22,4 +22,4 @@ I have some projects on my GitHub account that showcase my skills as a front-end
 
 ## Contact 📩
 
-If you're interested in working with me, please feel free to reach out via email at [beqarioni@yahoo.co.uk](mailto:beqarioni@yahoo.co.uk) or through my LinkedIn profile at [linkedin.com/in/bshekiladze/](https://www.linkedin.com/in/bshekiladze/). Thank you for your consideration.
+If you're interested in working with me, please feel free to reach out via email at [beqarioni@yahoo.co.uk](mailto:beqarioni@yahoo.co.uk) or through my LinkedIn profile at [linkedin.com/in/bshekiladze/](https://www.linkedin.com/in/beqarion/). Thank you for your consideration.
