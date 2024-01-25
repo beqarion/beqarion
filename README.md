@@ -10,10 +10,6 @@ I'm proficient in the following programming languages and frameworks:
 -   CSS 🎨
 -   JavaScript 🚀
 -   TailwindCSS 🌟
--   React ⚛️ (newbie)
--   Node.js 🛡️ (newbie)
--   MongoDB 🍃 (newbie)
--   SQL (newbie)
 
 
 ## Projects 📂
